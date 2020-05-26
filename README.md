@@ -11,10 +11,10 @@ URL: https://abejones26.github.io/final-project/
 
 # Project Contributors:
 
+* Dharti Patel
 * Tanisha Blakely
 * Jimmy Heinz III
 * Abe Jones
-* Dharti Patel
 * Alap Raval
 
 # Tech Stack
